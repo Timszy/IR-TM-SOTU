@@ -14,6 +14,7 @@ tokenization
 ### Named entity recognition
 nltk chunking
 BERT/transformers (pretrained with some fine tuning)
+https://huggingface.co/dslim/bert-base-NER
 
 ### Sentiment analysis
 BERT/transformers (pretrained with some fine tuning)
