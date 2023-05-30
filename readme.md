@@ -25,3 +25,5 @@ SVM classifiers
 https://huggingface.co/davanstrien/imdb_bertopic
 
 simple clustering with K-NN
+
+normalised mutual information? L13
