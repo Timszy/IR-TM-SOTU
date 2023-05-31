@@ -16,8 +16,8 @@ BERT/transformers (pretrained with some fine tuning) Florent
 https://huggingface.co/dslim/bert-base-NER Florent
 
 ### Sentiment analysis
-BERT/transformers (pretrained with some fine tuning) Florent
-(roberta)
+BERT/transformers (pretrained with some fine tuning) (roberta) Florent
+
 TextBlob Timo
 ### Topic extraction
 Unsupervised with:
